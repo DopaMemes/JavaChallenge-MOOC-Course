@@ -1,7 +1,7 @@
 public class Name {
     
     public static void main(String[] args) {
-        System.out.println("Brandon Dale Kemp Georges");
+        System.out.println("Name Redacted");
 
     }
 
